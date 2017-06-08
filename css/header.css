@@ -1,0 +1,38 @@
+.common_width{
+	width: 1000px;
+	margin:0 auto;
+}
+
+.header{
+	width:100%;
+	min-width: 1200px;
+	height: 80px;
+}
+.header .logo{
+	margin:12px 0 10px 9px;
+}
+.header .nav{
+	float: right;
+}
+.header .nav li{
+	float: left;
+}
+.header .nav li{
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+}
+.header .nav li a{
+	display: block;
+	color:#323232;
+	font-size: 14px;
+	font-weight: lighter;
+	padding: 0 20px;
+}
+.header .nav li:hover{
+	background:#d6ee74;
+}
+.header .nav li:hover a{
+	color: #fff;
+	background:#d6ee74;
+}

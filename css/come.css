@@ -1,0 +1,329 @@
+#bg_top{
+    width:100%;
+    height:230px;
+}
+#bg_top >img{
+    width:100%;
+    height:100%;
+}
+#content{
+    width: 100%;
+    height: auto;
+    padding-top:70px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+#content >div{
+    width: 1004px;
+    margin:0 auto;
+    height: auto;
+    min-height: 1000px;
+    /*background: orange;*/
+
+}
+#content >div >:first-child{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+
+}
+#content >div >:first-child >:first-child{
+    width: 100%;
+    height: 380px;
+    text-align: center;
+    background: url("../img/come_content_bg_02.jpg") no-repeat 0 -60px ;
+    background-size: 140%;
+    /*background: red;*/
+}
+#content >div >:first-child >:first-child >div {
+    background: rgba(255,255,255,0.5);
+    width: 100%;
+    height: 380px;
+    text-align: center;
+
+}
+
+#content >div >:first-child >:first-child >div >h3{
+    font-family: arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:#646464;
+    padding-bottom: 45px;
+    border-bottom: 1px solid #e4e4e4;
+}
+#content >div >:first-child >:first-child >div >p{
+    font-size: 12px;
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    color:#969696;
+    line-height: 21px;
+
+}
+#content >div >:first-child >:first-child >div >p:nth-of-type(2){
+    margin-top:75px;
+
+}
+#content >div >:first-child >:first-child >div >p:first-of-type{
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color:#646464;
+    background: #ffffff;
+    width: 114px;
+    height: 18px;
+    margin:-10px auto;
+
+}
+#content >div >:first-child >:nth-child(2){
+    width: 100%;
+    height: 230px;
+    margin-left:138px;
+    background:url("../img/come_content_bg_01.jpg") no-repeat 0 0;
+    position:relative;
+
+
+}
+#content >div >:first-child >:nth-child(2) >div:first-child{
+    width: 169px;
+    height: 196px;
+    float:left;
+    /*margin-left:239px*/
+    border:1px solid #a3abb1;
+
+}
+#content >div >:first-child >:nth-child(2) >div:first-child >p:first-child{
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    text-align: center;
+    color:#646464;
+    margin-top:36px;
+
+}
+#content >div >:first-child >:nth-child(2) >div:first-child >p:nth-child(2){
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size:24px;
+    color:#646464;
+    width: 62px;
+    height:66px;
+    text-align: center;
+    margin:16px auto 0;
+    border-bottom: 3px solid #9ba4ac;
+
+}
+#content >div >:first-child >:nth-child(2) >div:nth-child(2){
+    width: 435px;
+    height: 233px;
+    margin-left:135px;
+    float:left;
+
+
+}
+#content >div >:first-child >:nth-child(2) >div:nth-child(2)>p{
+    font-size:12px;
+    width: 437px;
+    height:auto;
+    margin-top:36px;
+    line-height: 28px;
+    text-align: left;
+    text-indent: 0.7cm;
+    color:#969696;
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+
+
+}
+#content >div >:first-child >:nth-child(2) >div:nth-child(3){
+    position: absolute;
+    background: rgba(255,255,255,0.3);
+    height: 88px;
+    width:100%;
+    top:0;
+
+}
+#content >div >:nth-child(2){
+     width: 100%;
+     height:733px;
+     border:1px solid #969696;
+     padding:15px;
+
+ }
+#content >div >:nth-child(2) >img{
+    width: 100%;
+    height: 100%;
+}
+#content >div >:nth-child(3){
+    width: 100%;
+    height:665px;
+    margin-bottom: 40px;
+
+}
+#content >div >:nth-child(3) >:first-child{
+    width: 50%;
+    height: 100%;
+    float:left;
+
+}
+#content >div >:nth-child(3) >:first-child >{
+    width: 50%;
+    height: 100%;
+    float:left;
+
+}
+#content >div >:nth-child(3) >:first-child >:first-child{
+    width: 100%;
+    height: 258px;
+
+}
+#content >div >:nth-child(3) >:first-child >:first-child >p{
+   font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size:12px;
+    /*margin-top:45px;*/
+    line-height: 35px;
+    text-indent: 2em;
+    color:#969696;
+    width: 355px;
+    padding-top:80px;
+    margin:0 auto;
+    text-align: center;
+
+}
+#content >div >:nth-child(3) >:first-child >:nth-child(2){
+    width: 100%;
+    height: 407px;
+
+}
+#content >div >:nth-child(3) >:first-child >:nth-child(2) >img{
+    width: 100%;
+    height: 100%;
+
+}
+#content >div >:nth-child(3) >:nth-child(2){
+    width: 50%;
+    float:left;
+    height:100%;
+    background: url("../img/come_content_bg_04.png") no-repeat -40px 325px;
+}
+#content >div >:nth-child(3) >:nth-child(2) >p{
+    width: 170px;
+    height: 165px;
+    margin:180px auto 0;
+    text-align: center;
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    color:#646464;
+    border:1px solid #969696;
+    padding-top:30px;
+
+}
+#content >div >:nth-child(3) >:nth-child(2) >p >span{
+    display: block;
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size:25px;
+    line-height: 43px;
+    color:#646464;
+    padding-bottom:38px;
+    width: 60px;
+    margin:0 auto;
+    text-align: center;
+    border-bottom:3px solid #969696;
+
+}
+.cospshow{
+    width: 100%;
+    height: 367px;
+    margin-top:40px;
+    overflow: hidden;
+
+}
+.cospshow >.cospshow_left{
+    width: 50%;
+    height:367px;
+    float:left;
+    text-align: center;
+
+}
+.cospshow >.cospshow_left >div{
+    padding-top:117px;
+
+}
+.cospshow >.cospshow_left >div >p{
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size:12px;
+    line-height: 36px;
+    color:#646464;
+
+}
+.cospshow >.cospshow_left >div >p:first-child{
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    margin-bottom: 35px;
+    color:#646464;
+
+}
+.cospshow >.cospshow_left2{
+    width: 50%;
+    height:367px;
+    background:url("../img/come_content_bg_03.png") no-repeat -25px 150px ;
+    float:left;
+
+
+}
+.cospshow >.cospshow_left2 >div{
+    width: 169px;
+    height: 195px;
+    margin:82px auto;
+    border:1px solid #969696;
+    text-align: center;
+
+}
+.cospshow >.cospshow_left2 >div >p:first-child{
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    color:#969696;
+    margin-top:35px;
+
+}
+.cospshow >.cospshow_left2 >div >p:nth-child(2){
+    font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size:24px;
+    color:#969696;
+    margin-top:20px;
+
+}
+.cospshow >.cospshow_left2 >div >span{
+    display: block;
+   width: 60px;
+    height: 3px;
+    margin:32px auto;
+    background: #969696;
+
+}
+.cospshow >.cospshow_right{
+    width: 50%;
+    height:367px;
+    float:left;
+
+}
+.cospshow >.cospshow_right >img{
+    width: 100%;
+    height:100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

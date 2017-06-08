@@ -1,0 +1,101 @@
+@media(min-width: 1200px){
+.container{
+	width: 1000px;
+}
+.contion{
+	height: 885px;
+}
+.contion .text{
+	font-size: 18px;
+	margin-top: 65px;
+}
+.contion .text img{
+	margin-right: 5px;
+}
+.contion span{
+	font-size: 12px;
+	margin-top: 65px;
+}
+.contion h6{
+	width: 100%;
+	height: 10px;
+	border-top: 1px solid #aaaaaa;
+	margin-top: 95px;
+	margin-bottom: 45px;
+}
+.contion .friendlink{
+	width: 400px;
+	height: 50px;
+	margin:0 auto;
+}
+.contion .friendlink ul{
+	margin:0;
+	padding:0;
+}
+.contion .friendlink ul li{
+	list-style: none;
+	float: left;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	margin-left: 10px;
+	text-align: center;
+	background: #eeeeee;
+}
+.contion .friendlink ul li:hover{
+	background: #d6ee74;
+	color: white;
+}
+.contion .friendlink ul li:nth-of-type(5){
+	background: white;
+	color: black;
+}
+.contion .video{
+	width: 288px;
+	height: 173px;
+	float: left;
+	border: 1px solid gray;
+	margin-bottom: 42px;
+}
+.contion .shandow{
+	width: 288px;
+	height: 173px;
+	float: left;
+	border: 1px solid gray;
+	margin-left: 28px;
+	margin-bottom: 42px;
+}
+.contion .shandow:nth-of-type(4){
+	margin-left: 0;
+}
+.contion .shandow:nth-of-type(7){
+	margin-left: 0;
+}
+.contion .shandow div{
+	width: 287px;
+	height: 55px;
+	background: white;
+	position: relative;
+	top: -55px;
+	display: none;
+}
+.contion .shandow:hover div{
+	display: block;
+}
+.contion .shandow div h4{
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+	padding-top: 15px;
+	text-align: center;
+}
+.contion .shandow div p{
+	padding: 0;
+	font-size: 12px;
+	color: #aaaaaa;
+	text-align: right;
+	margin:0;
+	margin-right: 39px;
+	margin-top: 5px;
+}
+}

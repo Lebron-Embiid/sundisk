@@ -1,0 +1,91 @@
+@media (min-width: 1200px) { 
+.container{
+	width: 1000px;
+}
+.contion{
+	height: 1150px;
+}
+.contion h2{
+	font-size: 24px;
+	text-align: center;
+	margin-top: 50px;
+}
+.contion .link{
+	display: block;
+	widows: 170px;
+	height: 70px;
+	color: black;
+	font-size: 16px;
+	line-height: 70px;
+	text-align: center;
+	border-bottom: 1px solid #aaaaaa;
+}
+.contion .link:first-of-type{
+	border-top: 1px solid #aaaaaa;
+}
+.contion .link:hover{
+	color:white;
+	background: #d6ee74;
+	text-decoration: none;
+}
+.contion .pull-left{
+	font-size: 18px;
+	text-indent: 0;
+	margin-top: 65px;
+	margin-left: 30px;
+}
+.contion .pull-left img{
+	margin: -2px 5px 0 0;
+}
+.contion h1{
+	font-size: 24px;
+	text-align: center;
+	margin-top: 28px;
+}
+.contion span{
+	font-size: 12px;
+	margin-left: 0px;
+	margin-top: 65px;
+}
+.contion h6{
+	width: 775px;
+	height: 10px;
+	border-top:1px solid #aaaaaa;
+	margin-top: 95px;
+	margin-left: 30px;
+}
+.contion img{
+	margin-left: 65px;
+}
+.contion p{
+	font-size: 12px;
+	color: #aaaaaa;
+	text-indent: 2em;
+	margin-left: 65px;
+	line-height: 25px;
+}
+.contion .line-height{
+	margin-left: 5px;
+	margin-top: 60px;
+	margin-bottom: 15px;
+}
+.contion .text{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.contion ul:last-of-type{
+	height: 30px;
+	border-top: 1px solid #aaaaaa;
+	padding: 0;
+}
+.contion ul li{
+	font-size: 12px;
+	color: #aaaaaa;
+	float: left;
+	list-style: none;
+	margin-top: 15px;
+}
+.contion ul li:last-of-type{
+	float: right;
+}
+}
